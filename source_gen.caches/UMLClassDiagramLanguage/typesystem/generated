@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="d0sa8s5utemcyq8fe3srkyapxac5gnn">
+  <files names="TypesystemDescriptor.java:check_Aggregation_Name_NonTypesystemRule.java:check_AssociationClass_Name_NonTypesystemRule.java:check_Association_Name_NonTypesystemRule.java:check_Attribute_Name_NonTypesystemRule.java:check_Class_NonTypesystemRule.java:check_Composition_Name_NonTypesystemRule.java:check_Inheritance_Name_NonTypesystemRule.java:check_Method_Name_NonTypesystemRule.java" />
+</product>
+
